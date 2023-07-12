@@ -1,0 +1,6 @@
+moviepy
+imageio
+numpy
+tqdm
+matplotlib
+ffmpeg-python
